@@ -5,9 +5,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.webwapsolutions.epizzaapp"
-        version   = "1.0.1">
+        version   = "1.0">
 
-    <name>Pizza Pronto</name>
+    <name>Pronto Pizza Odense</name>
     <description>
         <!--ePizza Suite App til din hjemmeside-->
 		Pizza Pronto App powered by ePizza Suite Pro - leveret af Web Wap Solutions
@@ -66,8 +66,8 @@
     <preference name="KeepRunning"                value="true"/>
     <preference name="InAppBrowserStorageEnabled" value="true"/>
     
-    <preference name="LoadingDialog" value="Pizza Pronto, Velkommen Pizza Pronto"/>
-    <preference name="LoadingPageDialog" value="Pizza Pronto, Velkommen Pizza Pronto"/>
+    <preference name="LoadingDialog" value="Pizza Pronto, Velkommen Pizza Pronto Odense"/>
+    <preference name="LoadingPageDialog" value="Pizza Pronto, Velkommen Pizza Pronto Odense"/>
     <preference name="LogLevel" value="WARN"/>
     
     <gap:config-file platform="android" parent="/manifest/application">
